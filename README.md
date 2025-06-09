@@ -1,4 +1,4 @@
-![5ba68bc0800a6242b0396c265136052dba4b1fd1_96](https://github.com/user-attachments/assets/f0f3adc0-4b92-4ac5-896b-58825ac1c791)
+   ![5ba68bc0800a6242b0396c265136052dba4b1fd1_96](https://github.com/user-attachments/assets/f0f3adc0-4b92-4ac5-896b-58825ac1c791)
 
 Craftable Essentials is a quality-of-life mod that brings new possibilities to your Minecraft world by adding crafting recipes for items that are normally unobtainable or uncraftable in vanilla gameplay. Whether you're playing survival or running a server, this mod gives you more control over hard-to-get resources without compromising the game's balance.
 
