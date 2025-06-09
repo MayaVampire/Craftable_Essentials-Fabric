@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "craftableessentials",
+  "version": "${version}",
+  "name": "CraftableEssentials",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/craftableessentials/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "net.mayavampire.craftableessentials.client.CraftableessentialsClient"
+    ],
+    "main": [
+      "net.mayavampire.craftableessentials.Craftableessentials"
+    ]
+  },
+  "mixins": [
+    "craftableessentials.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
