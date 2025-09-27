@@ -2,15 +2,19 @@
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "###",
-    "SgS",
-    "SgS"
+    "SGS",
+    "SGS"
   ],
   "key": {
-    "#": "#minecraft:planks",
-    "S": "minecraft:stone",
-    "g": [
-      "minecraft:gold_ingot"
-    ]
+    "#": {
+      "tag": "minecraft:planks"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    }
   },
   "result": {
     "id": "minecraft:bell",

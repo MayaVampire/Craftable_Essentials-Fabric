@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#*#",
+    "*#*",
+    "#*#"
+  ],
+  "key": {
+    "*": [
+      "minecraft:torch"
+    ]
+  },
+  "result": {
+    "id": "minecraft:glowstone_dust",
+    "count": 10
+  },
+  "show_notification": true
+}
